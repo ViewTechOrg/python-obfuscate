@@ -96,7 +96,7 @@ def delete_file(path):
 
 def main():
     source_file = input("[>] Masukan File : ")
-    output_obf = input(" [>] Output  File : "
+    output_obf = input(" [>] Output  File : ")
     output_decrypted = input("[>] Output Decrypt File : ")
 
     # Step 1: Baca source
